@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Uday</h1>
 <h3 align="center">A passionate MERN-stack developer from India</h3>
 
-- 🔭 I’m currently working on [SENTIENCE-Student wellbeing and Productivity Tracker](https://github.com/kalviumcommunity/S72_Udaybir_Capstone_Wellbeing_Productivity.git)
+- 🔭 I’m currently working on [ScholAR](https://github.com/kalviumcommunity/scholAR)
 
 - 🌱 I’m currently learning **TypeScript,Angular,GCP**
 
-- 🤝 I’m looking for help with [E-commerce Application](https://github.com/Uday9909/E-Commerce_Application_CODE_ALONG.git)
+- 🤝 I’m looking for help with [AI-Resume Builder](https://github.com/Uday9909/AI-Resume-Builder)
 
 - 💬 Ask me about **MERN stack,C++,PYTHON**
 
