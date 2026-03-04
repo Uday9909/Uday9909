@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uday</h1>
 <h3 align="center">A passionate MERN-stack developer from India</h3>
 
-- 🔭 I’m currently working on [ScholAR](https://github.com/kalviumcommunity/scholAR)
+- 🔭 I’m currently working on [Sentinel](https://github.com/Uday9909/Sentinel-Ai)
 
 - 🌱 I’m currently learning **TypeScript,Angular,GCP**
 
