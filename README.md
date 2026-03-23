@@ -93,7 +93,7 @@ fun_fact: "I once debugged a bug so hard, the code apologised."
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=uday9909&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Uday9909&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
@@ -103,7 +103,7 @@ fun_fact: "I once debugged a bug so hard, the code apologised."
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=uday9909&theme=tokyo-night&hide_border=true&area=true&color=6E40C9&line=6E40C9&point=ffffff)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Uday9909&theme=tokyo-night&hide_border=true&area=true&color=6E40C9&line=6E40C9&point=ffffff)
 
 </div>
 
