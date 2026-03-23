@@ -92,10 +92,7 @@ open_source: true
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Uday9909&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-</div>
-
----
+![Trophies](https://github-trophies.vercel.app/?username=Uday9909&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)---
 
 ### 📈 Contribution Activity
 
