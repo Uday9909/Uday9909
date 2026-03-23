@@ -35,8 +35,8 @@ open_source: true
 <a href="https://github.com/Uday9909/Sentinel-Ai">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uday9909&repo=Sentinel-Ai&theme=tokyonight&hide_border=true&title_color=6E40C9&icon_color=6E40C9" />
 </a>
-<a href="https://github.com/Uday9909/AI-Resume-Builder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=uday9909&repo=AI-Resume-Builder&theme=tokyonight&hide_border=true&title_color=6E40C9&icon_color=6E40C9" />
+<a href="https://github.com/Uday9909/Helios">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Uday9909&repo=Helios&theme=tokyonight&hide_border=true&title_color=6E40C9&icon_color=6E40C9" />
 </a>
 
 </div>
