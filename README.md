@@ -24,7 +24,6 @@ status: Open to internships ✅
 stack: MERN + Python + TypeScript
 currently_learning: [TypeScript, Angular, GCP]
 open_source: true
-fun_fact: "I once debugged a bug so hard, the code apologised."
 ```
 
 ---
@@ -76,7 +75,7 @@ fun_fact: "I once debugged a bug so hard, the code apologised."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=uday9909&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&title_color=6E40C9&icon_color=6E40C9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=uday9909&theme=tokyonight&hide_border=true&count_private=false&title_color=6E40C9&icon_color=6E40C9" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uday9909&theme=tokyonight&hide_border=true&layout=compact&title_color=6E40C9" height="165"/>
 
 </div>
@@ -94,7 +93,6 @@ fun_fact: "I once debugged a bug so hard, the code apologised."
 <div align="center">
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Uday9909&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
 </div>
 
 ---
