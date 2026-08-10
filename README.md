@@ -30,7 +30,7 @@ open_source: true
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-<!-- This section auto-fills after the GitHub Action workflow runs for the first time -->
+1. 🗣 Commented on [#34](https://github.com/Uday9909/Sentinel-Ai/issues/34#issuecomment-5235835573) in [Uday9909/Sentinel-Ai](https://github.com/Uday9909/Sentinel-Ai)
 <!--END_SECTION:activity-->
 
 ---
