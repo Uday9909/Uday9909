@@ -30,7 +30,7 @@ open_source: true
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/Uday9909/Sentinel-Ai/pull/43#issuecomment-5249553242) in [Uday9909/Sentinel-Ai](https://github.com/Uday9909/Sentinel-Ai)
+1. 🗣 Commented on [#1790](https://github.com/layer5io/sistent/pull/1790#issuecomment-5255490726) in [layer5io/sistent](https://github.com/layer5io/sistent)
 <!--END_SECTION:activity-->
 
 ---
