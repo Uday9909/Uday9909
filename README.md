@@ -30,7 +30,7 @@ open_source: true
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1790](https://github.com/layer5io/sistent/pull/1790#issuecomment-5255490726) in [layer5io/sistent](https://github.com/layer5io/sistent)
+1. 💪 Opened PR [#1](https://github.com/Uday9909/ci-fix-drill/pull/1) in [Uday9909/ci-fix-drill](https://github.com/Uday9909/ci-fix-drill)
 <!--END_SECTION:activity-->
 
 ---
