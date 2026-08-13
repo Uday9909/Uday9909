@@ -30,7 +30,7 @@ open_source: true
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Uday9909/ci-fix-drill/pull/1) in [Uday9909/ci-fix-drill](https://github.com/Uday9909/ci-fix-drill)
+1. 💪 Opened PR [#216](https://github.com/c2siorg/GDB-UI/pull/216) in [c2siorg/GDB-UI](https://github.com/c2siorg/GDB-UI)
 <!--END_SECTION:activity-->
 
 ---
