@@ -30,7 +30,7 @@ open_source: true
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#216](https://github.com/c2siorg/GDB-UI/pull/216) in [c2siorg/GDB-UI](https://github.com/c2siorg/GDB-UI)
+1. 🎉 Merged PR [#2](https://github.com/Uday9909/Weave/pull/2) in [Uday9909/Weave](https://github.com/Uday9909/Weave)
 <!--END_SECTION:activity-->
 
 ---
