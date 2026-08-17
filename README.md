@@ -30,7 +30,7 @@ open_source: true
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#212](https://github.com/c2siorg/GDB-UI/pull/212) in [c2siorg/GDB-UI](https://github.com/c2siorg/GDB-UI)
+1. 🎉 Merged PR [#45](https://github.com/Uday9909/Sentinel-Ai/pull/45) in [Uday9909/Sentinel-Ai](https://github.com/Uday9909/Sentinel-Ai)
 <!--END_SECTION:activity-->
 
 ---
