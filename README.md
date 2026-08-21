@@ -30,7 +30,7 @@ open_source: true
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#27](https://github.com/kalviumcommunity/repository-rescue-challenge/pull/27) in [kalviumcommunity/repository-rescue-challenge](https://github.com/kalviumcommunity/repository-rescue-challenge)
+1. 🗣 Commented on [#21049](https://github.com/meshery/meshery/issues/21049#issuecomment-5369772960) in [meshery/meshery](https://github.com/meshery/meshery)
 <!--END_SECTION:activity-->
 
 ---
