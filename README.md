@@ -30,7 +30,7 @@ open_source: true
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Uday9909/Weave/pull/3) in [Uday9909/Weave](https://github.com/Uday9909/Weave)
+1. ❌ Closed PR [#27](https://github.com/kalviumcommunity/repository-rescue-challenge/pull/27) in [kalviumcommunity/repository-rescue-challenge](https://github.com/kalviumcommunity/repository-rescue-challenge)
 <!--END_SECTION:activity-->
 
 ---
