@@ -30,7 +30,7 @@ open_source: true
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21049](https://github.com/meshery/meshery/issues/21049#issuecomment-5369772960) in [meshery/meshery](https://github.com/meshery/meshery)
+1. 🎉 Merged PR [#42](https://github.com/c2siorg/GSoC/pull/42) in [c2siorg/GSoC](https://github.com/c2siorg/GSoC)
 <!--END_SECTION:activity-->
 
 ---
