@@ -30,7 +30,7 @@ open_source: true
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/c2siorg/GSoC/pull/42) in [c2siorg/GSoC](https://github.com/c2siorg/GSoC)
+1. 🎉 Merged PR [#4](https://github.com/Uday9909/Weave/pull/4) in [Uday9909/Weave](https://github.com/Uday9909/Weave)
 <!--END_SECTION:activity-->
 
 ---
