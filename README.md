@@ -30,7 +30,7 @@ open_source: true
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/Uday9909/Weave/pull/8) in [Uday9909/Weave](https://github.com/Uday9909/Weave)
+1. 💪 Opened PR [#2](https://github.com/Uday9909/matrix-debug-drill/pull/2) in [Uday9909/matrix-debug-drill](https://github.com/Uday9909/matrix-debug-drill)
 <!--END_SECTION:activity-->
 
 ---
