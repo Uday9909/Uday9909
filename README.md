@@ -30,7 +30,7 @@ open_source: true
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Uday9909/matrix-debug-drill/pull/2) in [Uday9909/matrix-debug-drill](https://github.com/Uday9909/matrix-debug-drill)
+1. 🎉 Merged PR [#12](https://github.com/Uday9909/ShaktiBot/pull/12) in [Uday9909/ShaktiBot](https://github.com/Uday9909/ShaktiBot)
 <!--END_SECTION:activity-->
 
 ---
