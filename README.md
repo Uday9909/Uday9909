@@ -30,7 +30,7 @@ open_source: true
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#29](https://github.com/Uday9909/Sentinel-Ai/issues/29) in [Uday9909/Sentinel-Ai](https://github.com/Uday9909/Sentinel-Ai)
+1. 🎉 Merged PR [#15](https://github.com/Uday9909/ShaktiBot/pull/15) in [Uday9909/ShaktiBot](https://github.com/Uday9909/ShaktiBot)
 <!--END_SECTION:activity-->
 
 ---
