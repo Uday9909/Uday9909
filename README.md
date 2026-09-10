@@ -30,7 +30,7 @@ open_source: true
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/Uday9909/ShaktiBot/pull/15) in [Uday9909/ShaktiBot](https://github.com/Uday9909/ShaktiBot)
+1. 🎉 Merged PR [#5](https://github.com/Uday9909/Team-Singularity/pull/5) in [Uday9909/Team-Singularity](https://github.com/Uday9909/Team-Singularity)
 <!--END_SECTION:activity-->
 
 ---
