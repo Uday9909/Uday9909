@@ -30,7 +30,7 @@ open_source: true
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Uday9909/Team-Singularity/pull/5) in [Uday9909/Team-Singularity](https://github.com/Uday9909/Team-Singularity)
+1. 🗣 Commented on [#43](https://github.com/Uday9909/Sentinel-Ai/pull/43#issuecomment-5816747784) in [Uday9909/Sentinel-Ai](https://github.com/Uday9909/Sentinel-Ai)
 <!--END_SECTION:activity-->
 
 ---
