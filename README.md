@@ -30,7 +30,7 @@ open_source: true
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Uday9909/Journal-Autofill/pull/1) in [Uday9909/Journal-Autofill](https://github.com/Uday9909/Journal-Autofill)
+1. 💪 Opened PR [#30](https://github.com/ACES-MIT-ADT/FrontEnd-new/pull/30) in [ACES-MIT-ADT/FrontEnd-new](https://github.com/ACES-MIT-ADT/FrontEnd-new)
 <!--END_SECTION:activity-->
 
 ---
