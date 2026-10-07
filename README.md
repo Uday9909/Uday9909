@@ -30,7 +30,7 @@ open_source: true
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/ACES-MIT-ADT/FrontEnd-new/pull/30) in [ACES-MIT-ADT/FrontEnd-new](https://github.com/ACES-MIT-ADT/FrontEnd-new)
+1. 🎉 Merged PR [#10](https://github.com/ACES-MIT/website/pull/10) in [ACES-MIT/website](https://github.com/ACES-MIT/website)
 <!--END_SECTION:activity-->
 
 ---
