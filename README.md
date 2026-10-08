@@ -30,7 +30,7 @@ open_source: true
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/ACES-MIT/website/pull/10) in [ACES-MIT/website](https://github.com/ACES-MIT/website)
+1. ❌ Closed PR [#1](https://github.com/Uday9909/atlas-release-readiness-lab/pull/1) in [Uday9909/atlas-release-readiness-lab](https://github.com/Uday9909/atlas-release-readiness-lab)
 <!--END_SECTION:activity-->
 
 ---
