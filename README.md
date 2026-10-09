@@ -30,7 +30,7 @@ open_source: true
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/Uday9909/atlas-release-readiness-lab/pull/1) in [Uday9909/atlas-release-readiness-lab](https://github.com/Uday9909/atlas-release-readiness-lab)
+1. 🗣 Commented on [#40](https://github.com/kalviumcommunity/devlinks-02/pull/40#issuecomment-6077167581) in [kalviumcommunity/devlinks-02](https://github.com/kalviumcommunity/devlinks-02)
 <!--END_SECTION:activity-->
 
 ---
