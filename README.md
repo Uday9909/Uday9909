@@ -30,7 +30,7 @@ open_source: true
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/kalviumcommunity/devlinks-02/pull/40#issuecomment-6077167581) in [kalviumcommunity/devlinks-02](https://github.com/kalviumcommunity/devlinks-02)
+1. 🎉 Merged PR [#5](https://github.com/Gaurav-205/Hacktober/pull/5) in [Gaurav-205/Hacktober](https://github.com/Gaurav-205/Hacktober)
 <!--END_SECTION:activity-->
 
 ---
