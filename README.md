@@ -30,7 +30,7 @@ open_source: true
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27331](https://github.com/directus/directus/issues/27331#issuecomment-6164464556) in [directus/directus](https://github.com/directus/directus)
+1. 🎉 Merged PR [#15](https://github.com/Uday9909/Weave/pull/15) in [Uday9909/Weave](https://github.com/Uday9909/Weave)
 <!--END_SECTION:activity-->
 
 ---
