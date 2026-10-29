@@ -30,7 +30,7 @@ open_source: true
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/Uday9909/Weave/pull/15) in [Uday9909/Weave](https://github.com/Uday9909/Weave)
+1. 🎉 Merged PR [#47](https://github.com/Uday9909/Sentinel-Ai/pull/47) in [Uday9909/Sentinel-Ai](https://github.com/Uday9909/Sentinel-Ai)
 <!--END_SECTION:activity-->
 
 ---
