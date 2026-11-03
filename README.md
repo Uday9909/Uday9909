@@ -30,7 +30,7 @@ open_source: true
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Uday9909/cheating-daddy/pull/1) in [Uday9909/cheating-daddy](https://github.com/Uday9909/cheating-daddy)
+1. 💪 Opened PR [#28446](https://github.com/directus/directus/pull/28446) in [directus/directus](https://github.com/directus/directus)
 <!--END_SECTION:activity-->
 
 ---
