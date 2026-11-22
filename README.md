@@ -30,7 +30,7 @@ open_source: true
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#28446](https://github.com/directus/directus/pull/28446) in [directus/directus](https://github.com/directus/directus)
+1. 🎉 Merged PR [#6200](https://github.com/kubernetes-sigs/headlamp/pull/6200) in [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp)
 <!--END_SECTION:activity-->
 
 ---
